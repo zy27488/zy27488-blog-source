@@ -1,0 +1,94 @@
+nav:
+  logo:
+  display_title: true
+  fixed: false
+
+menu:
+  首页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+
+avatar:
+  img: https://www.helloimg.com/images/2022/08/08/Z0kSu0.jpg
+  effect: false
+
+favicon: https://www.helloimg.com/images/2022/08/08/Z0kHOh.jpg
+
+index_img: https://www.helloimg.com/images/2022/08/08/Z0k2lr.jpg
+default_top_img: https://www.helloimg.com/images/2022/08/08/Z0k2lr.jpg
+default_cover:
+  - https://www.helloimg.com/images/2022/08/08/Z0kOLK.md.jpg
+
+social:
+  fab fa-github: https://github.com/zy27488 || Github
+  fas fa-envelope: mailto:2748838006@qq.com || Email
+
+subtitle:
+  enable: true
+  effect: true
+  typed_option:
+  source: false
+  sub:
+    - 给岁月以文明 给时光以生命
+    - hello world
+    - 行到水穷处，坐看云起时
+    - 我本可以忍受黑暗，如果我不曾见过光明。
+
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: true
+  position: right
+  card_author:
+    enable: true
+    description: 一个神秘的地方
+    button:
+      enable: true
+      icon: fab fa-github
+      text: github
+      link: https://github.com/zy27488
+  card_announcement:
+    enable: true
+    content: 欢迎来到zy的Blog
+  card_recent_post:
+    enable: true
+    limit: 5
+  card_categories:
+    enable: true
+  card_tags:
+    enable: true
+  card_archives:
+    enable: true
+  card_webinfo:
+    enable: true
+
+local_search:
+  enable: true
+  preload: true
+  CDN:
+
+copy:
+  enable: true
+  copyright:
+    enable: false
+
+footer:
+  owner:
+    enable: true
+    since: 2020
+  custom_text: '<a href="https://icp.gov.moe/?keyword=20222748" target="_blank">萌ICP备20222748号</a>'
+
+inject:
+  head:
+    - <link rel="stylesheet" href="/zy27488-blog-source/css/yejiaojianbian.css">
+    - <link rel="stylesheet" href="/zy27488-blog-source/css/background.css">
+    - <link rel="stylesheet" href="/zy27488-blog-source/css/shubiao.css">
+  bottom:
+    - <script async src="https://npm.elemecdn.com/tzy-blog/lib/js/other/sakura.js"></script>
+
+comments:
+  use:
