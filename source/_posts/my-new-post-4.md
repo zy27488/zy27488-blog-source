@@ -2,6 +2,7 @@
 title: "铸剑"
 date: 2022-08-15 10:17:39
 updated: 2022-08-28 13:40:25
+description: "鲁迅《铸剑》全文转载与文学欣赏。"
 tags:
   - "文学欣赏"
 cover: "https://www.helloimg.com/images/2022/08/15/ZQGc4h.png"
@@ -13,6 +14,9 @@ abbrlink: "My-New-Post-4"
 <h3>鲁迅</h3>
 
 <p><img src="https://www.helloimg.com/images/2022/08/15/ZQGN9T.jpg" alt="post.jpg"></p>
+
+<!-- more -->
+
 <h2>一</h2>
 
 <p>眉间尺刚和他的母亲睡下，老鼠便出来咬锅盖，使他听得发烦。他轻轻地叱了几声，最初还有些效验，后来是简直不理他了，格支格支地径自咬。他又不敢大声赶，怕惊醒了白天做得劳乏，晚上一躺就睡着了的母亲。</p>
@@ -181,3 +185,4 @@ abbrlink: "My-New-Post-4"
 <p>此后是王后和许多王妃的车。百姓看她们，她们也看百姓，但哭着。此后是大臣，太监，侏儒等辈，都装着哀戚的颜色。只是百姓已经不看他们，连行列也挤得乱七八糟，不成样子了。</p>
 <pre><code>                                                                         一九二六年十月作
 </code></pre>
+

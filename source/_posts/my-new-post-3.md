@@ -2,6 +2,7 @@
 title: "My poem to you"
 date: 2022-07-24 15:35:17
 updated: 2022-08-28 13:54:27
+description: "一首写给旧日朋友的诗。"
 tags:
   - "poem"
 cover: "https://www.helloimg.com/images/2022/07/31/Z0Gi4q.png"
@@ -9,6 +10,9 @@ abbrlink: "My-New-Post-3"
 ---
 
 <p> <font size="6">我曾有一位美丽的朋友<br>   美丽的曾经的我的朋友<br>   曾在我身边<br>   曾伴我左右<br>   可我已记不清你的面孔</font>  </p>
+
+<!-- more -->
+
 <hr>
 <p><img src="https://www.helloimg.com/images/2022/08/08/Z0knJm.jpg" alt="poem1.jpg"></p>
 <p>   <font size="6">你温柔的话语<br>   仿佛刚离去<br>   带起一阵风<br>   消失在天际<br>   一切变得又净又静<br>   唯有离别 写满了回忆</font></p>
@@ -21,3 +25,4 @@ abbrlink: "My-New-Post-3"
 <pre><code>                                                                        zy27488
                                                                        2022.7.24
 </code></pre>
+

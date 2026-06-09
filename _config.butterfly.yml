@@ -71,6 +71,10 @@ local_search:
   preload: true
   CDN:
 
+index_post_content:
+  method: 1
+  length: 160
+
 copy:
   enable: true
   copyright:
